@@ -1,7 +1,7 @@
 langchain
 ipykernel
 python-dotenv
-langchain-community
+langchain_community
 pypdf
 bs4
 arxiv
@@ -16,3 +16,4 @@ sentence_transformers
 langchain_huggingface
 faiss-cpu
 langchain_chroma
+beautifulsoup4
