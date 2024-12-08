@@ -18,3 +18,9 @@ faiss-cpu
 langchain_chroma
 beautifulsoup4
 streamlit
+langchain_groq
+langchain-core
+fastapi
+uvicorn
+langserve
+sse_starlette
