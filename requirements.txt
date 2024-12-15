@@ -24,3 +24,6 @@ fastapi
 uvicorn
 langserve
 sse_starlette
+torch
+torchvision
+torchaudio
