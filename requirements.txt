@@ -36,7 +36,7 @@ youtube_transcript_api
 validators==0.28.1
 SQLAlchemy
 mysql-connector-python
-duckduckgo-search
+duckduckgo_search==5.3.1b1
 langchain-groq
 openai
 pandas
