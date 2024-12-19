@@ -27,3 +27,16 @@ sse_starlette
 torch
 torchvision
 torchaudio
+duckdb
+huggingface_hub
+numexpr
+pytube
+unstructured
+youtube_transcript_api
+validators==0.28.1
+SQLAlchemy
+mysql-connector-python
+duckduckgo-search
+langchain-groq
+openai
+pandas
